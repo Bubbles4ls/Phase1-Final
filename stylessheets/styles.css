@@ -1,12 +1,11 @@
-.pup {
-    background: #500637;
-    display: inline-grid;
-    padding: 0px;
+h1{
+    color: blueviolet;
     text-align: center;
-    margin-left: 10px; 
-    } 
-  
-  #main {
-    box-sizing: border-box;
+    
+}
+
+h2 {
+
+    color: blue;
     text-align: center;
-  }
+}
