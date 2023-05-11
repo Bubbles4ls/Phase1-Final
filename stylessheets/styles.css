@@ -5,8 +5,9 @@ body {
 
 
 h1{
-    color: blueviolet;
+    color: rgb(26, 2, 49);
     text-align: center;
+    font-family: cursive;
     
 }
 
@@ -14,6 +15,7 @@ h2 {
 
     color: blue;
     text-align: center;
+    font-family: cursive;
 }
 
 .topnav {
@@ -29,6 +31,7 @@ h2 {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font-family: cursive;
   }
   
   /* Change the color of links on hover */
