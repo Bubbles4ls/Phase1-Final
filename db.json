@@ -1,0 +1,39 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Classic Trim",
+      "image": "https://product-images.tcgplayer.com/fit-in/437x437/filters:format(webp)/21954.jpg",
+      "discription": "We give your firend a brush out and a simple trim. no add-ons",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Wash and Go",
+      "image": "https://product-images.tcgplayer.com/fit-in/437x437/filters:format(webp)/21954.jpg",
+      "discription": "Full wash and blowdry. Simply haircut with a spray of puppy cologne",
+      "price": 50
+    },
+    {
+      "id": 3,
+      "name": "Introductory Trim",
+      "image": "https://product-images.tcgplayer.com/fit-in/437x437/filters:format(webp)/21954.jpg",
+      "discription": "This is more of a service for young puppies to get them aclimated to grooming",
+      "price": 65
+    },
+    {
+      "id": 4,
+      "name": "Hear my ROWR",
+      "image": "https://product-images.tcgplayer.com/fit-in/437x437/filters:format(webp)/21954.jpg",
+      "discription": "We give your firend a short cut aroung the body, keep it long roung the face. As to look like a lion.",
+      "price": 110
+    },
+    {
+      "id": 5,
+      "name": "Custom Dye-Job",
+      "image": "https://product-images.tcgplayer.com/fit-in/437x437/filters:format(webp)/21954.jpg",
+      "discription": "Your choice of colors and designs. May have to lighten fur on some dogs. ",
+      "price": 150
+    }
+  ]
+}
